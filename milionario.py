@@ -19,7 +19,7 @@ def chi_vuol_essere_millionario():
     soldi=0
     inizia=input("premi invio per iniziare")
     start_timer = time.time()
-    print("ciao")
+    print("salve")
     for i in range(1, 7):
 
         numm = random.randint(0, o)
